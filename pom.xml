@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- EagleFire -->
-    <groupId>cn.eaglefire.app</groupId>
+    <groupId>com.light.seven</groupId>
 
     <!-- 构件名称 -->
-    <artifactId>Provider</artifactId>
+    <artifactId>song</artifactId>
 
     <!-- 版本 -->
     <version>0.0.1-SNAPSHOT</version>
@@ -80,7 +80,7 @@
 
     <!-- 构建配置 -->
     <build>
-        <finalName>Provider</finalName>
+        <finalName>song</finalName>
     </build>
 
 </project>
